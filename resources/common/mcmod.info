@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "RFVoid",
+    "name": "RF Void",
+    "version": "%conf:VERSION%",
+    "description": "Adds a block that consumes infinite RF.",
+    "authors": [ "narc0tiq" ],
+    "url": "https://github.com/narc0tiq/RFVoid"
+  }
+]
